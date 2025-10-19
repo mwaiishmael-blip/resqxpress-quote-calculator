@@ -6,7 +6,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
-    "postinstall": "npm install vite @vitejs/plugin-react"
+    
   },
   "dependencies": {
     "react": "^18.3.1",
